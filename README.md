@@ -1,12 +1,12 @@
 # Hi 👋, I'm Narawith Jangtrakul
 
 I'm a passionate learner who is currently diving into **Full-Stack Web Development**.  
-My goal is to become a **Software Developer** who builds impactful and meaningful applications.
+My goal is to become a **Software Engineer** who builds impactful and meaningful applications.
 
 ## 🌏 About Me
 
 - 🇹🇭 Based in Thailand  
-- 📫 Reach me at: [narawith.j@kkumail.com](mailto:narawith.j@kkumail.com)
+- 📫 Reach me at: [narawithjangtrakul@gmail.com](mailto:narawithjangtrakul@gmail.com)
 
 ## 🚀 Languages and Tools I Use
 
